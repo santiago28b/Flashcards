@@ -1,5 +1,26 @@
 ## Flashcard
 
+## Lab 3
+
+### App Description
+`TODO://` the flash card app now has prev and next buttons and can be saved
+
+### App Walk-though
+`
+
+![](https://i.imgur.com/mkn3ck4.gif)
+
+
+`TODO://` 
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users stories you completed and how your app looked and functioned at each step.
 
 ## Lab 1
